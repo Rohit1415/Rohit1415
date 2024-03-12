@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit bhatu</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit1415&label=Profile%20views&color=0e75b6&style=flat" alt="rohit1415" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit1415&label=Profile%20views&color=0e75b6&style=flat&?count=15000" alt="rohit1415" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit1415" alt="rohit1415" /></a> </p>
 
