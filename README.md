@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **E-commerce**
 
-- 👨‍💻 All of my projects are available at [https://rohit-bhatu-dev.vercel.app/](https://rohit-bhatu-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rohit-bhatu.vercel.app/](https://rohit-bhatu.vercel.app/)
 
 - 📝 I regularly write articles on [https://rohitbhatu.blogspot.com/](https://rohitbhatu.blogspot.com/)
 
