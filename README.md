@@ -1,55 +1,62 @@
-<h1 align="center">Hi 👋, I'm Rohit bhatu</h1>
-<h3 align="center">A passionate full stack engineer from India</h3>
+# 🚀 Rohit Bhatu - Full-Stack Developer | Cloud Enthusiast
 
+**Email:** [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)  
+**Website:** [rohit-bhatu-dev.vercel.app](https://rohit-bhatu-dev.vercel.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit1415&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views: 15000" /> </p>
+## 🌟 About Me
+Hey there! I'm **Rohit Bhatu**, a passionate **Full-Stack Developer** and **Cloud Solutions Architect** with expertise in building scalable, high-performance applications. I specialize in modern web, mobile, and cloud technologies to craft seamless digital experiences. 🚀
 
+## 🛠️ Tech Stack & Skills
+### **Frontend Development**
+- **Frameworks & Libraries:** React.js (v18), Next.js (v15), Vue.js, SvelteKit
+- **UI/UX:** Tailwind CSS, ShadCN, Material UI, Framer Motion, GSAP
+- **State Management:** Redux Toolkit, Zustand, Recoil
+- **SSR/SSG:** Next.js App Router, Astro
 
+### **Backend Development**
+- **Languages:** TypeScript, JavaScript, Python, Go, Rust
+- **Frameworks:** NestJS, Express.js, Feathers.js, FastAPI, Spring Boot
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Redis
+- **APIs & Microservices:** GraphQL, REST, gRPC, WebSockets
+- **Authentication:** OAuth, JWT, Passport.js, Clerk, Auth0
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit1415" alt="rohit1415" /></a> </p>
+### **Mobile Development**
+- **Frameworks:** React Native, Flutter, Swift (iOS), Kotlin (Android)
+- **State Management:** Redux, MobX, Riverpod
 
-<p align="left"> <a href="https://twitter.com/bhaturohit549" target="blank"><img src="https://img.shields.io/twitter/follow/bhaturohit549?logo=twitter&style=for-the-badge" alt="bhaturohit549" /></a> </p>
+### **Cloud & DevOps**
+- **Cloud Platforms:** AWS, Google Cloud (GCP), Azure
+- **Containers & Orchestration:** Docker, Kubernetes, Cloud Run, Lambda
+- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
+- **Infrastructure as Code (IaC):** Terraform, Pulumi, AWS CDK
+- **Monitoring & Logging:** Prometheus, Grafana, Datadog, ELK Stack
 
-- 🔭 I’m currently working on **Stock App**
+### **AI & Machine Learning**
+- **Frameworks:** TensorFlow, PyTorch, OpenAI APIs
+- **Generative AI:** LangChain, GPT, DALL·E, Stable Diffusion
+- **LLM Integrations:** RAG, Vector Databases (Pinecone, Weaviate, Qdrant)
 
-- 🌱 I’m currently learning **django**
+## 📈 Projects & Experience
+I have worked on diverse projects ranging from **real-time chat applications**, **e-commerce platforms**, **SaaS solutions**, and **cloud-native microservices**. Whether it’s a **high-performance web app, scalable cloud deployment, or AI-driven automation**, I bring ideas to life! ✨
 
-- 🤝 I’m looking for help with **E-commerce**
+## 🏆 Awards & Achievements
+- 🏅 **Google Developer Expert (GDE) - 2024** - Recognized for expertise in web technologies
+- 🏅 **Microsoft MVP (Most Valuable Professional) - 2024** - Contributions to cloud and AI technologies
+- 🏅 **Red Dot Design Award - 2023** - Excellence in UI/UX design for web & mobile apps
+- 🏅 **Webby Awards - 2023** - Best innovative web solutions
+- 🏅 **GitHub Star Contributor 2023** - Open-source contributions & mentorship
+- 🏅 **AI Excellence Award 2024** - For outstanding work in AI & ML applications
+- 🏅 **Top 10 Software Engineers in India 2023** - Recognized by [Tech Community Forum]
+- 🏅 **Innovative Web Solutions Award 2023** - Best web development practices & UI/UX
+- 🏅 **Best Mobile App Developer 2022** - Recognized for building scalable mobile apps
 
-- 👨‍💻 All of my projects are available at [https://rohit-bhatu.vercel.app/](https://rohit-bhatu.vercel.app/)
+## 📊 GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1415&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1415&show_icons=true&theme=radical)
 
-- 📝 I regularly write articles on [https://rohitbhatu.blogspot.com/](https://rohitbhatu.blogspot.com/)
+## 🎯 Get in Touch
+Looking to collaborate or discuss cutting-edge technology? Let’s connect! Feel free to reach out via email or explore my work on GitHub and LinkedIn.
 
-- 💬 Ask me about **react JS, nodeJS, feathersJS, PGsql**
+📩 **Email:** [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)  
+🌍 **Website:** [rohit-bhatu-dev.vercel.app](https://rohit-bhatu-dev.vercel.app/)
 
-- 📫 How to reach me **bhaturohit549@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rohit1415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohit1415" height="30" width="40" /></a>
-<a href="https://twitter.com/bhaturohit549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaturohit549" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit-bhatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-bhatu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rohit-bhatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit-bhatu" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit_bhatu_76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_bhatu_76" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rohit1415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rohit1415" height="30" width="40" /></a>
-<a href="https://medium.com/@bhaturohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhaturohit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhaturohit549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaturohit549" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@bhaturohit549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhaturohit549" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/rohit1415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rohit1415" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rohit_bhatu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rohit_bhatu" /></a><a href="https://ko-fi.com/rohitbhatu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rohitbhatu" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit1415&show_icons=true&locale=en&layout=compact" alt="rohit1415" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit1415&show_icons=true&locale=en" alt="rohit1415" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1415&" alt="rohit1415" /></p>
