@@ -1,7 +1,7 @@
 # 🚀 Rohit Bhatu - Full-Stack Developer | Cloud Enthusiast
 
 **Email:** [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)  
-**Website:** [rohit-bhatu-dev.vercel.app](https://rohit-bhatu-dev.vercel.app/)
+**Website:** [rohit-bhatu-dev.vercel.app](https://rohit.bhatu.in/)
 
 ## 🌟 About Me
 Hey there! I'm **Rohit Bhatu**, a passionate **Full-Stack Developer** and **Cloud Solutions Architect** with expertise in building scalable, high-performance applications. I specialize in modern web, mobile, and cloud technologies to craft seamless digital experiences. 🚀
