@@ -58,5 +58,5 @@ I have worked on diverse projects ranging from **real-time chat applications**, 
 Looking to collaborate or discuss cutting-edge technology? Let’s connect! Feel free to reach out via email or explore my work on GitHub and LinkedIn.
 
 📩 **Email:** [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)  
-🌍 **Website:** [rohit-bhatu-dev.vercel.app](https://rohit-bhatu-dev.vercel.app/)
+🌍 **Website:** [rohit.bhatu.in](https://rohit.bhatu.in/)
 
