@@ -1,0 +1,11 @@
+name: Latest activity
+on:
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@v0.2.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
