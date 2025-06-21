@@ -1,24 +1,82 @@
-# 💫 About Me:
-Experienced Software Engineer with 3 year of expertise in crafting sleek, user-focused web interfaces. I blend technical skill with design insight to create high-quality, responsive websites and applications.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bhatu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrbhatu2003@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohit1415&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohit1415&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1415&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohit1415&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Header Banner -->
+<h1 align="center">👋 Hey there, I'm Rohit Bhatu</h1>
+<h3 align="center">🚀 Passionate Frontend Engineer & Full-Stack Developer</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohit1415&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Badges -->
+<p align="center">
+  <a href="https://rohit.bhatu.in" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:rrbhatu2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rohit1415" target="_blank"><img src="https://img.shields.io/github/followers/rohit1415?label=Follow&style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+### 🎯 About Me
+I'm a results-driven frontend & full-stack developer who loves to craft modern, pixel-perfect web apps and scalable solutions. I specialize in React.js and the entire JAMstack ecosystem — also experienced with AWS cloud services!
+
+---
+
+### 🧰 Tech Stack & Skills
+
+**Languages & Frameworks:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui)
+
+**Styling & HTTP:**
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square)
+
+**Cloud & Deployment:**
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3)
+![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=flat-square&logo=aws-amplify)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare)
+
+---
+
+### 🏆 Achievements & Certifications
+🏅 **Frontend Hackathon Winner 2023**  
+🏅 **Cloud App Development Top 3 - 2022**  
+🏅 **AWS Certified Solutions Architect Associate**  
+🏅 **ReactConf Contributor Award 2023**  
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1415&show_icons=true&theme=radical&hide_border=true)  
+
+---
+
+### 📈 GitHub Commit Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit1415&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&area_color=58A6FF&hide_border=true)
+
+---
+
+### 🔄 Latest Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+> 🔄 *Your most recent commits will show up here automatically after you add the GitHub Action workflow file.*  
+
+---
+
+### 📬 Let’s Connect
+Feel free to reach out for collaboration or coffee:
+- ✉️ [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)
+- 🌐 [rohit.bhatu.in](https://rohit.bhatu.in)
+- 💬 [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id/)
+
+---
+
+> 💡 **"Code is like humor. When you have to explain it, it’s bad." — Cory House**  
+> ✨ Thank you for visiting my profile — let’s build something awesome!
+
+---
+
