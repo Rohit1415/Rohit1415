@@ -1,62 +1,24 @@
-# 🚀 Rohit Bhatu - Full-Stack Developer | Cloud Enthusiast
+# 💫 About Me:
+Experienced Software Engineer with 3 year of expertise in crafting sleek, user-focused web interfaces. I blend technical skill with design insight to create high-quality, responsive websites and applications.<br>
 
-**Email:** [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)  
-**Website:** [rohit.bhatu.in](https://rohit.bhatu.in/)
 
-## 🌟 About Me
-Hey there! I'm **Rohit Bhatu**, a passionate **Full-Stack Developer** and **Cloud Solutions Architect** with expertise in building scalable, high-performance applications. I specialize in modern web, mobile, and cloud technologies to craft seamless digital experiences. 🚀
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bhatu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrbhatu2003@gmail.com) 
 
-## 🛠️ Tech Stack & Skills
-### **Frontend Development**
-- **Frameworks & Libraries:** React.js (v18), Next.js (v15), Vue.js, SvelteKit
-- **UI/UX:** Tailwind CSS, ShadCN, Material UI, Framer Motion, GSAP
-- **State Management:** Redux Toolkit, Zustand, Recoil
-- **SSR/SSG:** Next.js App Router, Astro
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohit1415&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohit1415&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit1415&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### **Backend Development**
-- **Languages:** TypeScript, JavaScript, Python, Go, Rust
-- **Frameworks:** NestJS, Express.js, Feathers.js, FastAPI, Spring Boot
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Redis
-- **APIs & Microservices:** GraphQL, REST, gRPC, WebSockets
-- **Authentication:** OAuth, JWT, Passport.js, Clerk, Auth0
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### **Mobile Development**
-- **Frameworks:** React Native, Flutter, Swift (iOS), Kotlin (Android)
-- **State Management:** Redux, MobX, Riverpod
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rohit1415&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### **Cloud & DevOps**
-- **Cloud Platforms:** AWS, Google Cloud (GCP), Azure
-- **Containers & Orchestration:** Docker, Kubernetes, Cloud Run, Lambda
-- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins
-- **Infrastructure as Code (IaC):** Terraform, Pulumi, AWS CDK
-- **Monitoring & Logging:** Prometheus, Grafana, Datadog, ELK Stack
+---
+[![](https://visitcount.itsvg.in/api?id=rohit1415&icon=4&color=0)](https://visitcount.itsvg.in)
 
-### **AI & Machine Learning**
-- **Frameworks:** TensorFlow, PyTorch, OpenAI APIs
-- **Generative AI:** LangChain, GPT, DALL·E, Stable Diffusion
-- **LLM Integrations:** RAG, Vector Databases (Pinecone, Weaviate, Qdrant)
-
-## 📈 Projects & Experience
-I have worked on diverse projects ranging from **real-time chat applications**, **e-commerce platforms**, **SaaS solutions**, and **cloud-native microservices**. Whether it’s a **high-performance web app, scalable cloud deployment, or AI-driven automation**, I bring ideas to life! ✨
-
-## 🏆 Awards & Achievements
-- 🏅 **Google Developer Expert (GDE) - 2024** - Recognized for expertise in web technologies
-- 🏅 **Microsoft MVP (Most Valuable Professional) - 2024** - Contributions to cloud and AI technologies
-- 🏅 **Red Dot Design Award - 2023** - Excellence in UI/UX design for web & mobile apps
-- 🏅 **Webby Awards - 2023** - Best innovative web solutions
-- 🏅 **GitHub Star Contributor 2023** - Open-source contributions & mentorship
-- 🏅 **AI Excellence Award 2024** - For outstanding work in AI & ML applications
-- 🏅 **Top 10 Software Engineers in India 2023** - Recognized by [Tech Community Forum]
-- 🏅 **Innovative Web Solutions Award 2023** - Best web development practices & UI/UX
-- 🏅 **Best Mobile App Developer 2022** - Recognized for building scalable mobile apps
-
-## 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit1415&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit1415&show_icons=true&theme=radical)
-
-## 🎯 Get in Touch
-Looking to collaborate or discuss cutting-edge technology? Let’s connect! Feel free to reach out via email or explore my work on GitHub and LinkedIn.
-
-📩 **Email:** [rrbhatu2003@gmail.com](mailto:rrbhatu2003@gmail.com)  
-🌍 **Website:** [rohit.bhatu.in](https://rohit.bhatu.in/)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
